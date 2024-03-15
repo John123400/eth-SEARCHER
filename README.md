@@ -6,10 +6,7 @@ Search lost eth
 
 
 # ✨Description: 
--The code is written in C++. 
--My team has been developing it for 2 months. 
--There are 30 built-in generations in the script (after 1 generation, another one is loaded immediately) 
--You can put your own generation there.
+-The code is written in C++. My team has been developing it for 2 months. There are 30 built-in generations in the script (after 1 generation, another one is loaded immediately). You can put your own generation there.
 
 
 # ✨Results:
